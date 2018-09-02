@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+h1 {
+  font-size: 50px;
+  font-family: Verdana;
+  color: white;
+  text-align: center;
+}
+h3 {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+h2{
+  font-size: 21px;
+  font-family: Verdana;
+  color: gray;
+  text-align: center;
+}
+.camping{
+  text-align: center;
+}
