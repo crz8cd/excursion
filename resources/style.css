@@ -18,6 +18,7 @@ h2{
   color: gray;
   text-align: center;
 }
-.camping{
+.center {
   text-align: center;
+  display: block;
 }
